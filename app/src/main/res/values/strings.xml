@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCar</string>
+    <string name="revers">Revers</string>
+    <string name="gas">Gas</string>
+    <string name="brake">Brake</string>
+    <string name="my_car">--MyCar--</string>
+</resources>
